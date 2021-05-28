@@ -5,13 +5,13 @@ SQL Agent - библиотека для языка JAVA, которая
 
 Упростит, ускорит и защитит вашу работу с базами данных.
 
-Документация: -
+Скачать: https://disk.yandex.ru/d/8asRDj7THX43Yg
 
-SQLAgentGUI - https://github.com/ar4itekYT/sqlagentgui
+Документация: https://vk.com/@ar4itekdev-dokumentaciya-sqlagent-library
 
 -----------------------------------------------------
 <p align="center">
-ar4itek.dev © 2020 - полное или частичное копирование запрещено.
+ar4itek.dev © 2021 - полное или частичное копирование запрещено.
 </p>
 
 <p align="center">
